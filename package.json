@@ -1,0 +1,25 @@
+{
+  "name": "utilitario",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GSillva/utilitario.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GSillva/utilitario/issues"
+  },
+  "homepage": "https://github.com/GSillva/utilitario#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}

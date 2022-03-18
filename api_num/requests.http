@@ -1,0 +1,2 @@
+
+GET http://localhost:8080/maxmin?action=maximum&numbers=10,1,100
